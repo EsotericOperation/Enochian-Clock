@@ -1,5 +1,5 @@
-# ✦ De Heptarchia Mystica
-### Planetary Day & Hour Clock
+# ✦ De Heptarchia Mystica 
+### Planetary Day & Hour Clock https://khrollo963.github.io/Enochian-Clock/
 
 > *An interactive Enochian planetary hour calculator based on John Dee's* De Heptarchia Mystica *(Sloane MS 3191)*
 
